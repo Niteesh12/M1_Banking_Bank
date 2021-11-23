@@ -1,3 +1,11 @@
-target: bank.c main.c bank.h
-	gcc main.c bank.c -o a.out
-	
+CC = gcc
+
+all:
+	gcc bank.c main.c -o out.exe
+
+run: all
+	./out.exe
+
+clean: 
+	del out.exe
+
