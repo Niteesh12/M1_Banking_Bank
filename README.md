@@ -10,3 +10,5 @@
 ![Windows Build](https://github.com/Vamsim2299/M1_Banking_Bank/actions/workflows/Windows_c-cpp.yml/badge.svg)
 
 ![Linux Build](https://github.com/Vamsim2299/M1_Banking_Bank/actions/workflows/Linux_c-cpp.yml/badge.svg)
+
+![cppcheck](https://github.com/Vamsim2299/M1_Banking_Bank/actions/workflows/cppcheck.yml/badge.svg)
