@@ -6,3 +6,7 @@
 ![Code Quality Score](https://api.codiga.io/project/29856/score/svg)
 
 ![Codiga Code Grade](https://api.codiga.io/project/29856/status/svg)
+
+![Windows Build](https://github.com/Vamsim2299/M1_Banking_Bank/actions/workflows/Windows_c-cpp.yml/badge.svg)
+
+![Linux Build](https://github.com/Vamsim2299/M1_Banking_Bank/actions/workflows/Linux_c-cpp.yml/badge.svg)
